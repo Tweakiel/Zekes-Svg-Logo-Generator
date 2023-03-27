@@ -1,6 +1,0 @@
-
-        <svg height="200" width="300">
-        <circle cx="150" cy="100" r="80" stroke="black" stroke-width="3" fill="WHITE" />
-        <text x="150" y="100" fill="BLACK" text-anchor="middle" dominant-baseline="central" font-size="50">RAH</text>
-    </svg>
-        
